@@ -11,7 +11,6 @@ function SimilarExercises({targetMuscleExercises, equipmentMuscleExercises}) {
 
             <Typography> Similar exerscises for same muscle group </Typography>
             <Stack direction="row" sx ={{p: "2", position: "relative" }}>
-         
             
             </Stack>
 
